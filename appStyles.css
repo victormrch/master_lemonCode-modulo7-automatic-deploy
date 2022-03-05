@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap);
+*{box-sizing:border-box}body{background:#22254b;color:#f2f1ef;font-family:"Poppins",sans-serif;margin:0}h1{background:#000}header{background-color:#373b69;padding:1rem;display:flex;justify-content:space-between;align-items:center}.search{font-family:inherit;background-color:transparent;border:2px solid #22254b;border-radius:50px;color:#f2f1ef;font-size:1.2rem;padding:.5rem 1.5rem}.search:focus{outline:none}.logo{width:auto;height:50px}
